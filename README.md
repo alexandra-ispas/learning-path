@@ -15,6 +15,9 @@ Learning Resources
 
 ## Architecture
 - [Software Architecture Patterns Book](https://github.com/chapin666/books/blob/master/architecture/software-architecture-patterns.pdf) - Comprehensive guide covering essential architectural patterns including layered, microservices, space-based, event-driven, and microkernel architectures.
+- [Microservices.io](https://microservices.io/index.html) - Extensive resource by Chris Richardson (author of Microservices Patterns) covering microservices architecture patterns, best practices, and implementation guides. Features detailed articles on service decomposition, design patterns, and practical approaches to microservices adoption.
+- [Confluent Developer Microservices Course](https://developer.confluent.io/courses/microservices/the-transactional-outbox-pattern/) - Free video course series covering essential microservices patterns and practices, including detailed explanations of the Transactional Outbox Pattern, event-driven architecture, and solving dual-write problems in distributed systems.
+
 
 
 ## Software Engineering Best Practices
